@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "cloneig",
+    "slug": "cloneig",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "cloneig"
+}
